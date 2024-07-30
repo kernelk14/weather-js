@@ -1,0 +1,15 @@
+{
+  "name": "weather-js",
+  "version": "1.0.0",
+  "description": "making a weather application is hard",
+  "main": "main.js",
+  "author": "kernelk14",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@api/locationiq": "file:.api/apis/locationiq",
+    "@geocoder-free/google": "^0.2.9-alpha.0",
+    "openweathermap": "^1.0.0",
+    "prompt-sync": "^4.2.0"
+  }
+}

@@ -9,7 +9,9 @@
   "dependencies": {
     "@api/locationiq": "file:.api/apis/locationiq",
     "@geocoder-free/google": "^0.2.9-alpha.0",
+    "node-libcurl": "^4.0.0",
     "openweathermap": "^1.0.0",
-    "prompt-sync": "^4.2.0"
+    "prompt-sync": "^4.2.0",
+    "request": "^2.88.2"
   }
 }

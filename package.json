@@ -9,6 +9,9 @@
   "dependencies": {
     "@api/locationiq": "file:.api/apis/locationiq",
     "@geocoder-free/google": "^0.2.9-alpha.0",
+    "bun-promptx": "^0.2.0",
+    "moment": "^2.30.1",
+    "momentjs": "^2.0.0",
     "node-libcurl": "^4.0.0",
     "openweathermap": "^1.0.0",
     "prompt-sync": "^4.2.0",
